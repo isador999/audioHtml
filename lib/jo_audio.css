@@ -1,8 +1,16 @@
-header {
-  height: 80%; 
+body {
+  height: 100%;
 }
 
-#carousel {
-  background-color: #CECECE;
-  height: 20%;
+header {
+  height: 60%;
+}
+
+#carousel_noel {
+  margin: auto;
+}
+
+.carousel-item .img-fluid {
+  height: 400px;
+  width: 100%;
 }
