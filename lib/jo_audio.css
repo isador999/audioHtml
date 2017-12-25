@@ -1,3 +1,8 @@
-div.images, footer > div {
-  padding: 3%;
+header {
+  height: 80%; 
+}
+
+#carousel {
+  background-color: #CECECE;
+  height: 20%;
 }
