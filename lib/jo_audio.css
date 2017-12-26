@@ -1,6 +1,6 @@
 body {
   height: 100%;
-  background-color: coral;
+  background-color: lightblue;
 }
 
 header {
@@ -9,6 +9,7 @@ header {
 
 #carousel_noel {
   margin: auto;
+  margin-bottom: 2%;
 }
 
 .carousel-item .img-fluid {
