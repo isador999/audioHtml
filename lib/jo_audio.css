@@ -1,5 +1,6 @@
 body {
   height: 100%;
+  background-color: coral;
 }
 
 header {
@@ -13,4 +14,9 @@ header {
 .carousel-item .img-fluid {
   height: 400px;
   width: 100%;
+}
+
+/*span.carousel-control-next-icon, span.carousel-control-prev-icon {*/
+a.carousel-control-next, a.carousel-control-prev {
+  color: red;
 }
